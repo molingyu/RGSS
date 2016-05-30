@@ -1,6 +1,5 @@
 # RGSS
-RGSSX script.以RGSS3 为主。
-author:shitake.
+RGSSX 脚本，以RGSS3 为主。
 
 # List
 
